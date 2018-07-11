@@ -8,4 +8,4 @@ homework:
 https://retx.github.io/CHIU-YU-HSUN/week1/week1.html
 
 week 2:
-task1:https://retx.github.io/CHIU-YU-HSUN/week2/task.html
+task1:https://retx.github.io/CHIU-YU-HSUN/week2/task1.html
